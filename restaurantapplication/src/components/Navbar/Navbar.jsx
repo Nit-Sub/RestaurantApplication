@@ -18,7 +18,7 @@ const Navbar = () => (
     </ul>
     <div className='app__navbar-login'>
       <a href='#login' className='p__opensans'>Log In/ Register</a>
-      <div/>
+      <div />
       <a href='#booktable' className='p__opensans'> Book Table</a>
 
 
