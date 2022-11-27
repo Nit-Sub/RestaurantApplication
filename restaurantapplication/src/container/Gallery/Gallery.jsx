@@ -7,7 +7,7 @@ import './Gallery.css';
 const Gallery = () =>{
   return(
     <>
-    <div className=''>
+    <div className='app__gallery'>
 
     </div>
     </>
