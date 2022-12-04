@@ -8,7 +8,6 @@ const Gallery = () =>{
   return(
     <>
     <div className='app__gallery'>
-
     </div>
     </>
   )
